@@ -1,6 +1,8 @@
 # 딴지 크롤러
 
 ```
+$ npm install
+
 $ node index.js
 
 3795986
