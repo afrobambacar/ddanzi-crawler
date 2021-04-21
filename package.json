@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "cheerio": "^0.22.0",
-    "request": "^2.81.0"
+    "form-scraper": "0.0.4",
+    "promisified-request": "0.0.3",
+    "request": "^2.81.0",
+    "tabletojson": "^2.0.6"
   }
 }
